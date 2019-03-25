@@ -1,0 +1,69 @@
+- title: "A power compensated differential scanning calorimeter for protein stability characterization"
+  image: dsc2_test.jpg
+  description: This device successfully characterizes a IgG1 antibody (mAb1) sample and the result is compared with an advanced commercial DSC.This device could potentially lead to a reduction in the cost and time for the drug formulation in the pharmaceutical industry.
+  authors: Shuyu Wang, Shifeng Yu, Michael Siedler, Peter M Ihnat, Dana I Filoti, Ming Lu, Lei Zuo
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0925400517319329
+    display:  Sensors and Actuators B Chemical 
+  highlight: 1
+  news2:
+
+- title: "A novel polyimide based micro heater with high temperature uniformity"
+  image: heater.jpg
+  description: In this paper we propose a novel micro heater design to reach a uniform temperature in a large heating area by optimizing the heating power density distribution in the heating area. 
+  authors: Shifeng Yu, Shuyu Wang, Ming Lu, Lei Zuo
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0924424717302248
+    display:  Sensors and Actuators A Physical
+  highlight: 1
+  news2:
+
+- title: "Micro-differential scanning calorimeter for liquid biological samples"
+  image: schematic.jpg
+  description: We developed an ultrasensitive micro-DSC (differential scanning calorimeter) for liquid protein sample characterization. 
+  authors: Shuyu Wang, Shifeng Yu, Michael S Siedler, Peter M Ihnat, Dana I Filoti, Ming Lu, Lei Zuo
+  link:
+    url: https://aip.scitation.org/doi/abs/10.1063/1.4965443
+    display:  Review of Scientific Instruments
+  highlight: 1
+  news2:
+
+- title: "Atomic layer-deposited titanium-doped vanadium oxide thin films and their thermistor applications"
+  image: fig1.png
+  description: The high TCR, good uniformity, and low processing temperature of the material make it a good candidate for thermistor application.
+  authors: Shuyu Wang, Shifeng Yu, Ming Lu, Mingzhao Liu, Lei Zuo
+  link:
+    url: https://link.springer.com/article/10.1007/s11664-016-5150-9
+    display:  Journal of Electronic Materials
+  highlight: 1
+  news2:
+
+- title: "Microfabrication of plastic-PDMS microfluidic devices using polyimide release layer and selective adhesive bonding"
+  image: SEM.png
+  description: In this paper, we present an improved method to bond poly(dimethylsiloxane) (PDMS) with polyimide (PI) to develop flexible substrate microfluidic devices. This proposed versatile method could bond the microfluidic device and plastic substrate together and be applied in the fabrication of some biosensors and lab-on-a-chip systems.
+  authors: Shuyu Wang, Shifeng Yu, Ming Lu, Lei Zuo
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1361-6439/aa66ed/meta
+    display:  Journal of Micromechanics and Microengineering
+  highlight: 1
+  news2:
+
+- title: "A metal-insulator transition study of VO2 thin films grown on sapphire substrates"
+  image: xrd.jpg
+  description: roper oxidation conditions can significantly reduce the thermal hysteresis. The fabricated VO2 thin films showed the potential to be applied in the development of electrical sensors and other smart devices.
+  authors: Shifeng Yu, Shuyu Wang, Ming Lu, Lei Zuo
+  link:
+    url: https://aip.scitation.org/doi/abs/10.1063/1.4997437
+    display:  Journal of Applied Physics
+  highlight: 1
+  news2:
+
+- title: "Review of MEMS differential scanning calorimetry for biomolecular study"
+  image: download.png
+  description: This review provides an up to date overview of the applications of DSC in biomolecular study such as the bovine serum albumin denaturation study, the relationship between the melting point of lysozyme and the scanning rate. 
+  authors: Shifeng Yu, Shuyu Wang, Ming Lu, Lei Zuo
+  link:
+    url: https://link.springer.com/article/10.1007/s11465-017-0451-0
+    display:  Frontiers of Mechanical Engineering
+  highlight: 1
+  news2:
